@@ -1,2 +1,2 @@
-CHAT_WEBHOOK = 'https://discord.com/api/webhooks/1523889554174640319/RqJ7qfSQ5wYBJgxhnSIQCYI3ELzY1JnEGLrRHnVTi_79a_V-gA5WOVfLK_kq8abSSyJ5';
-RECORDER_WEBHOOK = "https://discord.com/api/webhooks/1522066195627642910/GnCaBQUhcTd1wLilA8o-NE3x_xn-lkDTSLUcK-ChMb1nivT9d3OCDraY7CdrFmI9Ru-5";
+CHAT_WEBHOOK = 'https://ptb.discord.com/api/webhooks/1518769328672084079/aorszQqurUgRvRaniVgziBc7LfolGRCnzEf5B6WBzdIb24sdR56Sk8DylzZIDk9BMWvT';
+RECORDER_WEBHOOK = "https://ptb.discord.com/api/webhooks/1518769328672084079/aorszQqurUgRvRaniVgziBc7LfolGRCnzEf5B6WBzdIb24sdR56Sk8DylzZIDk9BMWvT";
